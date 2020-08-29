@@ -1,0 +1,4 @@
+-Pathing near walls may result in unit doing a figure-eight maneuver
+-Flash works while on cooldown
+-Flashing in walls results in the player not being able to move
+-Unintended behavior: Player must turn when pathing, cannot change direction instantaneously
